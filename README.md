@@ -14,8 +14,6 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 
 ## 📈 Progress
 
-## 📈 Progress
-
 | Day | Problem | Difficulty | Status |
 |-----|-----------------------------------------------|-----------|--------|
 | 1 | Concatenation of Array (LeetCode 1929) | Easy | ✅ |
