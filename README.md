@@ -14,8 +14,10 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 
 ## 📈 Progress
 
+## 📈 Progress
+
 | Day | Problem | Difficulty | Status |
-|-----|---------------------------------------------| 
+|-----|-----------------------------------------------|-----------|--------|
 | 1 | Concatenation of Array (LeetCode 1929) | Easy | ✅ |
 | 2 | Running Sum of 1D Array (LeetCode 1480) | Easy | ✅ |
 | 3 | Richest Customer Wealth (LeetCode 1672) | Easy | ✅ |
