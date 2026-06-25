@@ -21,11 +21,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 3 | Richest Customer Wealth (LeetCode 1672) | Easy | ✅ |
 | 4 | Shuffle the Array (LeetCode 1470) | Easy | ✅ |
 | 5 | Kids With the Greatest Number of Candies (LeetCode 1431) | Easy | ✅ |
+| 6 | Number of Good Pairs (LeetCode 1512) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 5 / 50
-- **Easy:** 5
+- **Problems Solved:** 6 / 50
+- **Easy:** 6
 - **Medium:** 0
 - **Hard:** 0
 
@@ -40,6 +41,8 @@ Java
 └── Day03_RichestCustomerWealth.java
 └── Day04_ShuffleTheArray.java
 └── Day05_KidsWithGreatestNumberOfCandies.java
+└── Day06_NumberOfGoodPairs.java
+
 ```
 
 ---
