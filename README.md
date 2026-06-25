@@ -24,7 +24,7 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 ## 📊 Stats
 
 - **Problems Solved:** 4 / 50
-- **Easy:** 3
+- **Easy:** 4
 - **Medium:** 0
 - **Hard:** 0
 
