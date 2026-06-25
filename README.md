@@ -15,18 +15,19 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 ## 📈 Progress
 
 | Day | Problem | Difficulty | Status |
-|------|---------|------------|--------|
+|-----|---------------------------------------------| 
 | 1 | Concatenation of Array (LeetCode 1929) | Easy | ✅ |
 | 2 | Running Sum of 1D Array (LeetCode 1480) | Easy | ✅ |
 | 3 | Richest Customer Wealth (LeetCode 1672) | Easy | ✅ |
 | 4 | Shuffle the Array (LeetCode 1470) | Easy | ✅ |
 | 5 | Kids With the Greatest Number of Candies (LeetCode 1431) | Easy | ✅ |
 | 6 | Number of Good Pairs (LeetCode 1512) | Easy | ✅ |
+| 7 | Build Array from Permutation (LeetCode 1920) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 6 / 50
-- **Easy:** 6
+- **Problems Solved:** 7 / 50
+- **Easy:** 7
 - **Medium:** 0
 - **Hard:** 0
 
@@ -42,6 +43,7 @@ Java
 └── Day04_ShuffleTheArray.java
 └── Day05_KidsWithGreatestNumberOfCandies.java
 └── Day06_NumberOfGoodPairs.java
+└── Day07_BuildArrayFromPermutation.java
 
 ```
 
