@@ -1,22 +1,20 @@
-# 🚀 50 Days of Code - Java
+🚀 50 Days of Code - Java
 
-Welcome to my **#50DaysOfCode** journey!
+📅 Started: 25 June 2026
 
-This repository contains my daily solutions to Data Structures and Algorithms (DSA) problems solved using **Java**, primarily on **LeetCode**.
+🔥 Current Progress
+✅ Day 1
+✅ Day 2
+⬜ Day 3
+...
 
-## Goals
-- Solve one DSA problem every day.
-- Strengthen problem-solving skills.
-- Prepare for software engineering internships and placements.
-- Build consistency and document my learning journey.
+📈 Stats
+Problems Solved: 2/50
+Easy: 2
+Medium: 0
+Hard: 0
 
-## Progress
-
-| Day | Problem | Difficulty | Status |
-|-----|---------|------------|--------|
-| 1 | Concatenation of Array (LeetCode 1929) | Easy | ✅ |
-
-More problems coming soon!
-
----
-**Language:** Java ☕
+📂 Folder Structure
+Java/
+ ├── Day01_ConcatenationOfArray.java
+ ├── Day02_RunningSumOf1DArray.java
