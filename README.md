@@ -19,10 +19,11 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 1 | Concatenation of Array (LeetCode 1929) | Easy | ✅ |
 | 2 | Running Sum of 1D Array (LeetCode 1480) | Easy | ✅ |
 | 3 | Richest Customer Wealth (LeetCode 1672) | Easy | ✅ |
+| 4 | Shuffle the Array (LeetCode 1470) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 3 / 50
+- **Problems Solved:** 4 / 50
 - **Easy:** 3
 - **Medium:** 0
 - **Hard:** 0
@@ -36,6 +37,7 @@ Java
 ├── Day01_ConcatenationOfArray.java
 ├── Day02_RunningSumOf1DArray.java
 └── Day03_RichestCustomerWealth.java
+└── Day04_ShuffleTheArray.java
 ```
 
 ---
