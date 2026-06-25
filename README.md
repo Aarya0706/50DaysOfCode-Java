@@ -2,16 +2,9 @@
 
 Welcome to my **#50DaysOfCode** journey!
 
-I'm solving one Data Structures and Algorithms (DSA) problem every day in **Java** to improve my problem-solving skills and prepare for software engineering internships and placements.
+This repository contains my daily solutions to Data Structures and Algorithms (DSA) problems solved using **Java**, primarily on **LeetCode**.
 
----
-
-## 📅 Started
-**25 June 2026**
-
----
-
-## 🎯 Goals
+## Goals
 - Solve one DSA problem every day.
 - Strengthen problem-solving skills.
 - Prepare for software engineering internships and placements.
@@ -22,28 +15,32 @@ I'm solving one Data Structures and Algorithms (DSA) problem every day in **Java
 ## 📈 Progress
 
 | Day | Problem | Difficulty | Status |
-|-----|---------|------------|--------|
+|------|---------|------------|--------|
 | 1 | Concatenation of Array (LeetCode 1929) | Easy | ✅ |
 | 2 | Running Sum of 1D Array (LeetCode 1480) | Easy | ✅ |
-
----
+| 3 | Richest Customer Wealth (LeetCode 1672) | Easy | ✅ |
 
 ## 📊 Stats
 
-- Problems Solved: **2 / 50**
-- Easy: **2**
-- Medium: **0**
-- Hard: **0**
+- **Problems Solved:** 3 / 50
+- **Easy:** 3
+- **Medium:** 0
+- **Hard:** 0
 
 ---
 
 ## 📂 Folder Structure
 
-```
+```text
 Java
 ├── Day01_ConcatenationOfArray.java
-└── Day02_RunningSumOf1DArray.java
+├── Day02_RunningSumOf1DArray.java
+└── Day03_RichestCustomerWealth.java
 ```
 
 ---
-⭐ More problems coming soon!
+
+More problems coming soon!
+
+---
+**Language:** Java ☕
