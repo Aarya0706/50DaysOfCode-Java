@@ -26,10 +26,11 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 8 | Merge Strings Alternately (LeetCode 1768) | Easy | ✅ |
 | 9 | Add Two Integers (LeetCode 2235) | Easy | ✅ |
 | 10 |  Jewels and Stones (LeetCode 771) |	Easy |	✅ |
+| 11 | Defanging an IP Address (LeetCode 1108) | Easy | ✅ |
 ## 📊 Stats
 
-- **Problems Solved:** 10 / 50
-- **Easy:** 10
+- **Problems Solved:** 11 / 50
+- **Easy:** 11
 - **Medium:** 0
 - **Hard:** 0
 
@@ -49,6 +50,7 @@ Java
 └── Day08_MergeStringsAlternately.java
 └── Day09_AddTwoIntegers.java
 └── Day10_JewelsAndStones.java
+└── Day11_DefangingIPAddress.java
 
 ```
 
