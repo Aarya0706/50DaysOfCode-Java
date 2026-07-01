@@ -25,11 +25,11 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 7 | Build Array from Permutation (LeetCode 1920) | Easy | ✅ |
 | 8 | Merge Strings Alternately (LeetCode 1768) | Easy | ✅ |
 | 9 | Add Two Integers (LeetCode 2235) | Easy | ✅ |
-
+| 10 |  Jewels and Stones (LeetCode 771) |	Easy |	✅ |
 ## 📊 Stats
 
-- **Problems Solved:** 9 / 50
-- **Easy:** 9
+- **Problems Solved:** 10 / 50
+- **Easy:** 10
 - **Medium:** 0
 - **Hard:** 0
 
@@ -48,6 +48,7 @@ Java
 └── Day07_BuildArrayFromPermutation.java
 └── Day08_MergeStringsAlternately.java
 └── Day09_AddTwoIntegers.java
+└── Day10_JewelsAndStones.java
 
 ```
 
