@@ -27,10 +27,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 9 | Add Two Integers (LeetCode 2235) | Easy | ✅ |
 | 10 |  Jewels and Stones (LeetCode 771) |	Easy |	✅ |
 | 11 | Defanging an IP Address (LeetCode 1108) | Easy | ✅ |
+| 12 | Final Value of Variable After Performing Operations (LeetCode 2011) | Easy | ✅ |
+
 ## 📊 Stats
 
-- **Problems Solved:** 11 / 50
-- **Easy:** 11
+- **Problems Solved:** 12 / 50
+- **Easy:** 12
 - **Medium:** 0
 - **Hard:** 0
 
@@ -51,6 +53,7 @@ Java
 └── Day09_AddTwoIntegers.java
 └── Day10_JewelsAndStones.java
 └── Day11_DefangingIPAddress.java
+└── Day12_FinalValueAfterOperations.java
 
 ```
 
