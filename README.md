@@ -24,11 +24,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 6 | Number of Good Pairs (LeetCode 1512) | Easy | ✅ |
 | 7 | Build Array from Permutation (LeetCode 1920) | Easy | ✅ |
 | 8 | Merge Strings Alternately (LeetCode 1768) | Easy | ✅ |
+| 9 | Add Two Integers (LeetCode 2235) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 8 / 50
-- **Easy:** 8
+- **Problems Solved:** 9 / 50
+- **Easy:** 9
 - **Medium:** 0
 - **Hard:** 0
 
@@ -46,6 +47,7 @@ Java
 └── Day06_NumberOfGoodPairs.java
 └── Day07_BuildArrayFromPermutation.java
 └── Day08_MergeStringsAlternately.java
+└── Day09_AddTwoIntegers.java
 
 ```
 
