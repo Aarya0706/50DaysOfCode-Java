@@ -28,11 +28,13 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 10 |  Jewels and Stones (LeetCode 771) |	Easy |	✅ |
 | 11 | Defanging an IP Address (LeetCode 1108) | Easy | ✅ |
 | 12 | Final Value of Variable After Performing Operations (LeetCode 2011) | Easy | ✅ |
+| 13 | Find the Highest Altitude (LeetCode 1732) | Easy | ✅ |
+| 14 | Smallest Even Multiple (LeetCode 2413) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 12 / 50
-- **Easy:** 12
+- **Problems Solved:** 14 / 50
+- **Easy:** 14
 - **Medium:** 0
 - **Hard:** 0
 
@@ -54,7 +56,8 @@ Java
 └── Day10_JewelsAndStones.java
 └── Day11_DefangingIPAddress.java
 └── Day12_FinalValueAfterOperations.java
-
+└── Day13_FindHighestAltitude.java
+└── Day14_SmallestEvenMultiple.java
 ```
 
 ---
