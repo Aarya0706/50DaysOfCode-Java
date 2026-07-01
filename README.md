@@ -23,11 +23,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 5 | Kids With the Greatest Number of Candies (LeetCode 1431) | Easy | ✅ |
 | 6 | Number of Good Pairs (LeetCode 1512) | Easy | ✅ |
 | 7 | Build Array from Permutation (LeetCode 1920) | Easy | ✅ |
+| 8 | Merge Strings Alternately (LeetCode 1768) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 7 / 50
-- **Easy:** 7
+- **Problems Solved:** 8 / 50
+- **Easy:** 8
 - **Medium:** 0
 - **Hard:** 0
 
@@ -44,6 +45,7 @@ Java
 └── Day05_KidsWithGreatestNumberOfCandies.java
 └── Day06_NumberOfGoodPairs.java
 └── Day07_BuildArrayFromPermutation.java
+└── Day08_MergeStringsAlternately.java
 
 ```
 
