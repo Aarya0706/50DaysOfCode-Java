@@ -30,11 +30,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 12 | Final Value of Variable After Performing Operations (LeetCode 2011) | Easy | ✅ |
 | 13 | Find the Highest Altitude (LeetCode 1732) | Easy | ✅ |
 | 14 | Smallest Even Multiple (LeetCode 2413) | Easy | ✅ |
+| 15 | Maximum Number of Words Found in Sentences (LeetCode 2114) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 14 / 50
-- **Easy:** 14
+- **Problems Solved:** 15 / 50
+- **Easy:** 15
 - **Medium:** 0
 - **Hard:** 0
 
@@ -58,6 +59,7 @@ Java
 └── Day12_FinalValueAfterOperations.java
 └── Day13_FindHighestAltitude.java
 └── Day14_SmallestEvenMultiple.java
+└── Day15_MaximumNumberOfWordsFoundInSentences.java
 ```
 
 ---
