@@ -32,11 +32,13 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 14 | Smallest Even Multiple (LeetCode 2413) | Easy | ✅ |
 | 15 | Maximum Number of Words Found in Sentences (LeetCode 2114) | Easy | ✅ |
 | 16 | Goal Parser Interpretation (LeetCode 1678) | Easy | ✅ |
+| 17 | To Lower Case (LeetCode 709) | Easy | ✅ |
+| 18 | Find Words Containing Character (LeetCode 2942) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 16 / 50
-- **Easy:** 16
+- **Problems Solved:** 18 / 50
+- **Easy:** 18
 - **Medium:** 0
 - **Hard:** 0
 
@@ -62,6 +64,8 @@ Java
 └── Day14_SmallestEvenMultiple.java
 └── Day15_MaximumNumberOfWordsFoundInSentences.java
 └── Day16_GoalParserInterpretation.java
+└── Day17_ToLowerCase.java
+└── Day18_FindWordsContainingCharacter.java
 ```
 
 ---
