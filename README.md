@@ -31,11 +31,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 13 | Find the Highest Altitude (LeetCode 1732) | Easy | ✅ |
 | 14 | Smallest Even Multiple (LeetCode 2413) | Easy | ✅ |
 | 15 | Maximum Number of Words Found in Sentences (LeetCode 2114) | Easy | ✅ |
+| 16 | Goal Parser Interpretation (LeetCode 1678) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 15 / 50
-- **Easy:** 15
+- **Problems Solved:** 16 / 50
+- **Easy:** 16
 - **Medium:** 0
 - **Hard:** 0
 
@@ -60,6 +61,7 @@ Java
 └── Day13_FindHighestAltitude.java
 └── Day14_SmallestEvenMultiple.java
 └── Day15_MaximumNumberOfWordsFoundInSentences.java
+└── Day16_GoalParserInterpretation.java
 ```
 
 ---
