@@ -34,11 +34,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 16 | Goal Parser Interpretation (LeetCode 1678) | Easy | ✅ |
 | 17 | To Lower Case (LeetCode 709) | Easy | ✅ |
 | 18 | Find Words Containing Character (LeetCode 2942) | Easy | ✅ |
+| 19 | Check If Two String Arrays are Equivalent (LeetCode 1662) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 18 / 50
-- **Easy:** 18
+- **Problems Solved:** 19 / 50
+- **Easy:** 19
 - **Medium:** 0
 - **Hard:** 0
 
@@ -66,6 +67,7 @@ Java
 └── Day16_GoalParserInterpretation.java
 └── Day17_ToLowerCase.java
 └── Day18_FindWordsContainingCharacter.java
+└── Day19_CheckIfTwoStringArraysAreEquivalent.java
 ```
 
 ---
