@@ -36,11 +36,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 18 | Find Words Containing Character (LeetCode 2942) | Easy | ✅ |
 | 19 | Check If Two String Arrays are Equivalent (LeetCode 1662) | Easy | ✅ |
 | 20 | Valid Palindrome (LeetCode 125) | Easy | ✅ |
+| 21 | Reverse String (LeetCode 344) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 20 / 50
-- **Easy:** 20
+- **Problems Solved:** 21 / 50
+- **Easy:** 21
 - **Medium:** 0
 - **Hard:** 0
 
@@ -70,6 +71,7 @@ Java
 └── Day18_FindWordsContainingCharacter.java
 └── Day19_CheckIfTwoStringArraysAreEquivalent.java
 └── Day20_ValidPalindrome.java
+└── Day21_ReverseString.java
 
 ```
 
