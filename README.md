@@ -37,11 +37,13 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 19 | Check If Two String Arrays are Equivalent (LeetCode 1662) | Easy | ✅ |
 | 20 | Valid Palindrome (LeetCode 125) | Easy | ✅ |
 | 21 | Reverse String (LeetCode 344) | Easy | ✅ |
+| 22 | Number of Employees Who Met the Target (LeetCode 2798) | Easy | ✅ |
+| 23 | Count Asterisks (LeetCode 2315) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 21 / 50
-- **Easy:** 21
+- **Problems Solved:** 23 / 50
+- **Easy:** 23
 - **Medium:** 0
 - **Hard:** 0
 
@@ -72,6 +74,8 @@ Java
 └── Day19_CheckIfTwoStringArraysAreEquivalent.java
 └── Day20_ValidPalindrome.java
 └── Day21_ReverseString.java
+├── Day22_NumberOfEmployeesWhoMetTarget.java
+├── Day23_CountAsterisks.java
 
 ```
 
