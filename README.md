@@ -40,11 +40,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 22 | Number of Employees Who Met the Target (LeetCode 2798) | Easy | ✅ |
 | 23 | Count Asterisks (LeetCode 2315) | Easy | ✅ |
 | 24 | Fizz Buzz (LeetCode 412) | Easy | ✅ |
+| 25 | Length of Last Word (LeetCode 58) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 24 / 50
-- **Easy:** 24
+- **Problems Solved:** 25 / 50
+- **Easy:** 25
 - **Medium:** 0
 - **Hard:** 0
 
@@ -78,6 +79,7 @@ Java
 ├── Day22_NumberOfEmployeesWhoMetTarget.java
 ├── Day23_CountAsterisks.java
 ├── Day24_FizzBuzz.java
+├── Day25_LengthOfLastWord.java
 
 ```
 
