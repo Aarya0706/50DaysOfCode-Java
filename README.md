@@ -39,11 +39,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 21 | Reverse String (LeetCode 344) | Easy | ✅ |
 | 22 | Number of Employees Who Met the Target (LeetCode 2798) | Easy | ✅ |
 | 23 | Count Asterisks (LeetCode 2315) | Easy | ✅ |
+| 24 | Fizz Buzz (LeetCode 412) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 23 / 50
-- **Easy:** 23
+- **Problems Solved:** 24 / 50
+- **Easy:** 24
 - **Medium:** 0
 - **Hard:** 0
 
@@ -76,6 +77,7 @@ Java
 └── Day21_ReverseString.java
 ├── Day22_NumberOfEmployeesWhoMetTarget.java
 ├── Day23_CountAsterisks.java
+├── Day24_FizzBuzz.java
 
 ```
 
