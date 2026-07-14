@@ -15,7 +15,7 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 ## 📈 Progress
 
 | Day | Problem | Difficulty | Status |
-|-----|-----------------------------------------------|-----------|--------|
+|-----|-----------------------------------------------| 
 | 1 | Concatenation of Array (LeetCode 1929) | Easy | ✅ |
 | 2 | Running Sum of 1D Array (LeetCode 1480) | Easy | ✅ |
 | 3 | Richest Customer Wealth (LeetCode 1672) | Easy | ✅ |
@@ -43,11 +43,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 25 | Length of Last Word (LeetCode 58) | Easy | ✅ |
 | 26 | Contains Duplicate (LeetCode 217) | Easy | ✅ |
 | 27 | Binary Search (LeetCode 704) | Easy | ✅ |
+| 28 | Valid Anagram (LeetCode 242) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 27 / 50
-- **Easy:** 27
+- **Problems Solved:** 28 / 50
+- **Easy:** 28
 - **Medium:** 0
 - **Hard:** 0
 
@@ -56,34 +57,39 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 ## 📂 Folder Structure
 
 ```text
-Java
-├── Day01_ConcatenationOfArray.java
-├── Day02_RunningSumOf1DArray.java
-└── Day03_RichestCustomerWealth.java
-└── Day04_ShuffleTheArray.java
-└── Day05_KidsWithGreatestNumberOfCandies.java
-└── Day06_NumberOfGoodPairs.java
-└── Day07_BuildArrayFromPermutation.java
-└── Day08_MergeStringsAlternately.java
-└── Day09_AddTwoIntegers.java
-└── Day10_JewelsAndStones.java
-└── Day11_DefangingIPAddress.java
-└── Day12_FinalValueAfterOperations.java
-└── Day13_FindHighestAltitude.java
-└── Day14_SmallestEvenMultiple.java
-└── Day15_MaximumNumberOfWordsFoundInSentences.java
-└── Day16_GoalParserInterpretation.java
-└── Day17_ToLowerCase.java
-└── Day18_FindWordsContainingCharacter.java
-└── Day19_CheckIfTwoStringArraysAreEquivalent.java
-└── Day20_ValidPalindrome.java
-└── Day21_ReverseString.java
-├── Day22_NumberOfEmployeesWhoMetTarget.java
-├── Day23_CountAsterisks.java
-├── Day24_FizzBuzz.java
-├── Day25_LengthOfLastWord.java
-├── Day26_ContainsDuplicate.java
-├── Day27_BinarySearch.java
+50DaysOfCode-Java/
+│
+├── Java/
+│   ├── Day01_ConcatenationOfArray.java
+│   ├── Day02_RunningSumOf1DArray.java
+│   ├── Day03_RichestCustomerWealth.java
+│   ├── Day04_ShuffleTheArray.java
+│   ├── Day05_KidsWithGreatestNumberOfCandies.java
+│   ├── Day06_NumberOfGoodPairs.java
+│   ├── Day07_BuildArrayFromPermutation.java
+│   ├── Day08_MergeStringsAlternately.java
+│   ├── Day09_AddTwoIntegers.java
+│   ├── Day10_JewelsAndStones.java
+│   ├── Day11_DefangingIPAddress.java
+│   ├── Day12_FinalValueAfterOperations.java
+│   ├── Day13_FindHighestAltitude.java
+│   ├── Day14_SmallestEvenMultiple.java
+│   ├── Day15_MaximumNumberOfWordsFoundInSentences.java
+│   ├── Day16_GoalParserInterpretation.java
+│   ├── Day17_ToLowerCase.java
+│   ├── Day18_FindWordsContainingCharacter.java
+│   ├── Day19_CheckIfTwoStringArraysAreEquivalent.java
+│   ├── Day20_ValidPalindrome.java
+│   ├── Day21_ReverseString.java
+│   ├── Day22_NumberOfEmployeesWhoMetTarget.java
+│   ├── Day23_CountAsterisks.java
+│   ├── Day24_FizzBuzz.java
+│   ├── Day25_LengthOfLastWord.java
+│   ├── Day26_ContainsDuplicate.java
+│   ├── Day27_BinarySearch.java
+│   └── Day28_ValidAnagram.java
+│
+└── README.md
 
 ```
 
