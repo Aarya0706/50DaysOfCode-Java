@@ -15,7 +15,7 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 ## 📈 Progress
 
 | Day | Problem | Difficulty | Status |
-|-----|-----------------------------------------------| 
+|-----|---------|------------|--------|
 | 1 | Concatenation of Array (LeetCode 1929) | Easy | ✅ |
 | 2 | Running Sum of 1D Array (LeetCode 1480) | Easy | ✅ |
 | 3 | Richest Customer Wealth (LeetCode 1672) | Easy | ✅ |
@@ -25,7 +25,7 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 7 | Build Array from Permutation (LeetCode 1920) | Easy | ✅ |
 | 8 | Merge Strings Alternately (LeetCode 1768) | Easy | ✅ |
 | 9 | Add Two Integers (LeetCode 2235) | Easy | ✅ |
-| 10 |  Jewels and Stones (LeetCode 771) |	Easy |	✅ |
+| 10 | Jewels and Stones (LeetCode 771) | Easy | ✅ |
 | 11 | Defanging an IP Address (LeetCode 1108) | Easy | ✅ |
 | 12 | Final Value of Variable After Performing Operations (LeetCode 2011) | Easy | ✅ |
 | 13 | Find the Highest Altitude (LeetCode 1732) | Easy | ✅ |
