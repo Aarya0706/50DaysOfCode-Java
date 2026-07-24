@@ -44,11 +44,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 26 | Contains Duplicate (LeetCode 217) | Easy | ✅ |
 | 27 | Binary Search (LeetCode 704) | Easy | ✅ |
 | 28 | Valid Anagram (LeetCode 242) | Easy | ✅ |
+| 29 | Remove Duplicates from Sorted Array (LeetCode 26) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 28 / 50
-- **Easy:** 28
+- **Problems Solved:** 29 / 50
+- **Easy:** 29
 - **Medium:** 0
 - **Hard:** 0
 
@@ -88,7 +89,7 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 │   ├── Day26_ContainsDuplicate.java
 │   ├── Day27_BinarySearch.java
 │   └── Day28_ValidAnagram.java
-│
+│   ├── Day29_RemoveDuplicatesFromSortedArray.java
 └── README.md
 
 ```
