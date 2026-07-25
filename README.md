@@ -45,11 +45,12 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 27 | Binary Search (LeetCode 704) | Easy | ✅ |
 | 28 | Valid Anagram (LeetCode 242) | Easy | ✅ |
 | 29 | Remove Duplicates from Sorted Array (LeetCode 26) | Easy | ✅ |
+| 30 | Remove Element (LeetCode 27) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 29 / 50
-- **Easy:** 29
+- **Problems Solved:** 30 / 50
+- **Easy:** 
 - **Medium:** 0
 - **Hard:** 0
 
@@ -90,6 +91,9 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 │   ├── Day27_BinarySearch.java
 │   └── Day28_ValidAnagram.java
 │   ├── Day29_RemoveDuplicatesFromSortedArray.java
+|   ├── Day29_RemoveDuplicatesFromSortedArray.java
+|   ├── Day30_RemoveElement.java
+|
 └── README.md
 
 ```
