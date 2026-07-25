@@ -47,10 +47,11 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 | 29 | Remove Duplicates from Sorted Array (LeetCode 26) | Easy | ✅ |
 | 30 | Remove Element (LeetCode 27) | Easy | ✅ |
 | 31 | Merge Sorted Array (LeetCode 88) | Easy | ✅ |
+| 32 | Move Zeroes (LeetCode 283) | Easy | ✅ |
 
 ## 📊 Stats
 
-- **Problems Solved:** 31 / 50
+- **Problems Solved:** 32 / 50
 - **Easy:** 
 - **Medium:** 0
 - **Hard:** 0
@@ -95,6 +96,7 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 |   ├── Day29_RemoveDuplicatesFromSortedArray.java
 |   ├── Day30_RemoveElement.java
 |   ├── Day31_MergeSortedArray.java
+|   └── Day32_MoveZeroes.java
 |
 └── README.md
 
